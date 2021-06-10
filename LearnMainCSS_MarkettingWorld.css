@@ -1,0 +1,21 @@
+*{margin:0;padding:0;}
+.TongTrang{height: 100%}
+.header{
+    width: 100%;
+    background: red;
+    }
+.main_content{
+    width: 100%;
+    background: yellow;
+}
+.footer{
+    width: 100%;
+    background: blue;
+}
+
+.nav_login_tuyendung{font-size: 16px}
+.nav_login_dangtin{font-size: 10.5px;}
+.icon_briefcase{font-size: 40px;color: white;}
+.img_sec2_cty{height: 150px}
+.text_leader_sect2{font-size: 40px;}
+a{text-decoration: none}
