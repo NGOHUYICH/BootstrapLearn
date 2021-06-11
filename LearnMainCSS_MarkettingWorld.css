@@ -1,21 +1,83 @@
 *{margin:0;padding:0;}
 .TongTrang{height: 100%}
-.header{
-    width: 100%;
-    background: red;
-    }
-.main_content{
-    width: 100%;
-    background: yellow;
-}
-.footer{
-    width: 100%;
-    background: blue;
-}
+.header{width: 100%;background: red;}
+.main_content{width: 100%;background: yellow;}
+.footer{width: 100%;background: blue;}
 
 .nav_login_tuyendung{font-size: 16px}
 .nav_login_dangtin{font-size: 10.5px;}
 .icon_briefcase{font-size: 40px;color: white;}
 .img_sec2_cty{height: 150px}
 .text_leader_sect2{font-size: 40px;}
-a{text-decoration: none}
+.icon_sect2_usd{height: 16px;width: 16px;margin-right: 10px;}
+.thongtincty_secti2 p{margin-bottom: 0px;}
+.NutUngTien_sect2{margin-right: 80px; margin-bottom: 10px;height: 55px;}
+.LuuTin_sect2{border : 1px dashed}
+.NutUngTien_sect2 span{height: 55px;line-height: 40px;}
+.tale_quyenloi table, tr,td{width: 300px;}
+.tale_quyenloi i{margin-right: 10px;color:#7abaff;}
+.main_section3{margin-left: 10px; margin-right: 50px;width: 99%;}
+.main_section3_left{width: 70%;}
+.main_section3_right{width: 30%;}
+.asidetop1{width: 95%;background: white;}
+.asidetop1_right{width: 100%;}
+.MotaCongviec{width: 95%;}
+.NoidungCongviec{width: 95%;}
+.Kynang{width: 95%;}
+.KienthucChuyenmon{width: 95%;}
+.icon_commentSide1{height: 16px;width: 16px;}
+.EndAside1{width: 95%;text-align: right}
+.aside2{width: 95%;}
+.aside3{width: 95%;}
+.img_joincty1{width: 100px;height: 100px;}
+.span_1_Tuan{color:#596778}
+.a_joincty1{color:#6c5646}
+.sect_right_p{color:#776f98}
+.LinhvucHoatdong{width: 94%;}
+.footer{background: #242a30}
+.table_footer_thongtin{width: 21%;}
+.table_footer_chuyenmon{width: 21%;}
+.table_footer_diadiem{width: 21%;}
+.table_footer_congdong{width: 20%;}
+.a_footer_sect1{color:#95999c;}
+.footer_sect2_left{width: 68%;}
+.footer_sect2_right{width: 20%;}
+.logo_bocongthuong{width: 20%}
+.i_facebook_footer{font-size: 20px; padding: 15px 20px 20px 20px;width: 50px;height: 50px; color: white}
+.Dong_Lienhe{margin-top: 90px;margin-left: 70px;}
+.table_tr_Quyche{width: 95%;}
+.table_section1 table,tr{width: 95%;}
+.footer-section2{width: 90%;}
+.footer-section3{width: 90%;}
+.img_footer_3{height: 20px;height: 20px;}
+.border_footer_dieukhoan{border-right: 1px solid #95999c}
+.border_footer_viecchat{border-left: 1px solid #95999c}
+
+<!-- Phần dành cho Responsive -->
+p.text_ {color: yellow;}
+
+@media (max-width: 768px){
+    p.text_leader_sect2 {color: red}
+    .nav_header{width: 20%;margin: 0 auto;text-align: center}
+    .nav_item_maucv{padding-left: 20px;}
+    .sign_in_header{width: 90%}
+    .ul_sign_in{text-align: center;}
+    .li_sign_in_nhatuyendung{width: 40%;margin-left: 180px!important;margin-top: 20px;}
+    .ma_sec2_as1{position: relative;padding-bottom: 150px;}
+    .ungtuyen_secti2{position: absolute;left: 35%;top: 210px;}
+    .ungtuyen_secti2 a{width: 150%;}
+    .main_section3_left{width:200%;}
+    .main_section3{width: 98%;}
+    .asidetop1{width: 100%;}
+    .JoinCty1{position: relative;}
+    .JoinCty1_Info{position: absolute;left: 150px;}
+    .JoinCty1_Info_Scroll{white-space: nowrap;overflow:hidden;text-overflow: ellipsis;width:350px;}
+    .span_1_Tuan{position: absolute;left: 83%;}
+    .main_section3_right{width: 95%;}
+    .breadcrum_sect3_right{width: 60%;}
+    .section2_right img{width: 80% !important;margin-left: 63px;padding-bottom: 80px;}
+
+
+
+
+}

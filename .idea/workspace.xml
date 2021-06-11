@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6414346-6d24-4ca0-a559-753d84a46a70" name="Default Changelist" comment="" />
+    <list default="true" id="f6414346-6d24-4ca0-a559-753d84a46a70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/BootstrapLearn" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapLearn/BootstrapLearn" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,9 @@
       <workItem from="1623159556587" duration="10405000" />
       <workItem from="1623202129863" duration="12030000" />
       <workItem from="1623215849599" duration="18049000" />
-      <workItem from="1623288597617" duration="5269000" />
+      <workItem from="1623288597617" duration="27517000" />
+      <workItem from="1623322047521" duration="583000" />
+      <workItem from="1623374917770" duration="28982000" />
     </task>
     <servers />
   </component>
