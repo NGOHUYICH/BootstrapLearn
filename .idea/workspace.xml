@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6414346-6d24-4ca0-a559-753d84a46a70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/.idea/BOOTSTRAP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Bootstrap/bootstrap.min.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BootstrapLearn/BootstrapLearn" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapLearn/BootstrapLearn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/HocBoot1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Jquery/Popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Jquery/jquery-3.6.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/Jquery/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/LearnBootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/LearnMainCSS_MarkettingWorld.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/1592493168_Cty1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/1618482960.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/1619518538.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/1620360129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/1622129235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/1623039718.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/520x360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/LogoFooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/bn-company.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/dmca_protected_sml_120j.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/logoCCDV.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLearn/img/logov2-01.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +114,9 @@
       <workItem from="1623215849599" duration="18049000" />
       <workItem from="1623288597617" duration="27517000" />
       <workItem from="1623322047521" duration="583000" />
-      <workItem from="1623374917770" duration="28982000" />
+      <workItem from="1623374917770" duration="29388000" />
+      <workItem from="1623413727530" duration="27000" />
+      <workItem from="1623461926601" duration="7696000" />
     </task>
     <servers />
   </component>
@@ -86,8 +129,34 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>

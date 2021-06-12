@@ -76,8 +76,38 @@ p.text_ {color: yellow;}
     .main_section3_right{width: 95%;}
     .breadcrum_sect3_right{width: 60%;}
     .section2_right img{width: 80% !important;margin-left: 63px;padding-bottom: 80px;}
+    .footer_sect2_left{text-align: justify;width: 60% !important;position: relative;}
+    .footer_sect2_right{width: 40%;padding-left: 30px;position: absolute;left: 56% !important;}
+    .Dong_Lienhe{width: 100% !important;margin-left: 0px;}
+    .footer-section3{width: 100%;}
+    .footer_dieukhoan{width: 23% !important;}
+    .footer_chinhsach{width: 30% !important;}
+    .footer_sodo{width: 20% !important;}
+    .footer_support_right{display: flex;}
+    .footer_support_left{height: 48px;line-height: 48px;}
+    .table_section1{display: flex;flex-direction: column;}
+    .tb_se1_td_thongtin{margin-right: 35px!important;}
+    .tb_se1_td_chuyenmon{margin-right: 27px !important;}
+    .tb_se1_td_diadiem{margin-right: 33px !important;}
 
-
-
+}
+@media (max-width: 576px) {
+    p.text_leader_sect2{color: blue}
+    .ul_sign_in{margin-left: -30px;}
+    .li_sign_in_nhatuyendung{margin-left: 0px !important;position: relative;left: 27%!important;width: 51%;}
+    .nav_branch{width: 100%;}
+    .ma_sec2_as1{display: block !important;}
+    .img_sect2_logoCty{text-align: center;}
+    .thongtincty_secti2{margin-right: 0px !important}
+    .ungtuyen_secti2{top:74%!important;left: 30%;}
+    .img_joincty1{margin-left: 30px !important;}
+    .JoinCty1_Info{left: 120px;}
+    .span_1_Tuan{left: 75%;}
+    .JoinCty1_Info_Scroll{width: 50%;}
+    .LinhvucHoatdong{width: 130%;}
+    .section2_right img{margin-left: 0px;width: 105% !important;}
+    .aside2{width: 100%;}
+    .JoinCty1{width: 105% !important;}
+    .section1_right{width: 105% !important;}
 
 }
