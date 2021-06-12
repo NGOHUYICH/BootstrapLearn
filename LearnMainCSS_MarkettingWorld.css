@@ -47,11 +47,27 @@
 .Dong_Lienhe{margin-top: 90px;margin-left: 70px;}
 .table_tr_Quyche{width: 95%;}
 .table_section1 table,tr{width: 95%;}
-.footer-section2{width: 90%;}
+.footer-section2{width: 98%;border-bottom: 1px solid #95999c}
 .footer-section3{width: 90%;}
 .img_footer_3{height: 20px;height: 20px;}
 .border_footer_dieukhoan{border-right: 1px solid #95999c}
 .border_footer_viecchat{border-left: 1px solid #95999c}
+.ul_quyenloi{list-style-type: none;}
+.ul_quyenloi i{margin-right: 10px;margin-bottom: 10px;}
+.ul_footer_sect1{list-style-type: none;}
+.ul_footer_sect1_tieude{color: white;font-size: 17px;}
+.ul_footer_sect1{margin-left: 10px;}
+.ul_li_fo_set1_nav_lienhe{border-top: 1px solid #95999c;position: relative;padding:0px !important;margin-left: 15px;margin-top:10px;max-width: 22%!important;}
+.ul_fo_set1_cot2_nav{margin-left: 38.9px;}
+.ul_li_fo_set1_nav_lienhe a{position: absolute;top: 10px;}
+.font_text_a li,a{color: #95999c;}
+.font_text_nav_a_footer_1{color: white;font-size: 20px;}
+.font_text_a{font-size: 15px !important;padding-top: 10px;}
+.font_text_nav_a_footer_1 ul,li{list-style-type: none}
+.font_text_nav_a_footer_1 a{text-decoration: none;}
+.nav_fo_sect1{border-top: 1px solid #95999c;}
+.nav_footer_end{border-bottom: 1px solid #95999c; margin-left: 16px !important;margin-right: 15px !important;padding-top: 20px;}
+.a_footer_sect1{padding-top: 10px;}
 
 <!-- Phần dành cho Responsive -->
 p.text_ {color: yellow;}
@@ -89,6 +105,18 @@ p.text_ {color: yellow;}
     .tb_se1_td_thongtin{margin-right: 35px!important;}
     .tb_se1_td_chuyenmon{margin-right: 27px !important;}
     .tb_se1_td_diadiem{margin-right: 33px !important;}
+    .ul_li_thongtin768{flex-basis: 25%;}
+    .ul_li_chuyenmon768{flex-basis: 24%;padding-left: 16px;}
+    .ul_li_diadiem768{flex-basis: 24%;padding-left: 26px;}
+    .ul_li_congdong768{flex-basis: 27%;padding-left: 26px;padding-right: 0}
+    .ul_li_fo_set1_nav_lienhe{width: 20%;}
+    .ul_li_sect1_a_kynang{margin-left: 27px !important;width: 22%;}
+    .Cot_tt{margin-top: 54px !important;}
+    .footer_sect2_left{padding-left: 0px;}
+    .footer_sect2_right{padding-top: 50px;}
+    .a_footer_sect1{padding-top: 10px;}
+    .footer-section2{margin-left: 10px!important;}
+    .span_1_Tuan{max-width: 117px;}
 
 }
 @media (max-width: 576px) {
@@ -109,5 +137,11 @@ p.text_ {color: yellow;}
     .aside2{width: 100%;}
     .JoinCty1{width: 105% !important;}
     .section1_right{width: 105% !important;}
+    .footer-section2{padding-bottom: 100px !important;}
+    .footer_sect2_right{position: relative;margin-left: -800px !important;top: 180px;width: 500px !important;}
+    .footer-section2{margin-left: 8px !important;}
+    .i_facebook_footer{border-radius: 50% !important;padding: 11px 19px 5px 14px !important;height: 40px;width: 40px;}
+    .footer_dieukhoan{padding-left: 0px !important;}
+    .a_footer_sect1{padding-top: 10px;}
 
 }
